@@ -1,0 +1,37 @@
+include ':mdga:client'
+include ':mdga:server'
+include ':mdga:model'
+
+dependencyResolutionManagement {
+    versionCatalogs {
+        libs {
+            version('jme', '3.7.0-stable')
+
+            library('jme3-core', 'org.jmonkeyengine', 'jme3-core').versionRef('jme')
+            library('jme3-desktop', 'org.jmonkeyengine', 'jme3-desktop').versionRef('jme')
+            library('jme3-networking', 'org.jmonkeyengine', 'jme3-networking').versionRef('jme')
+            library('jme3-awt-dialogs', 'org.jmonkeyengine', 'jme3-awt-dialogs').versionRef('jme')
+            library('jme3-plugins', 'org.jmonkeyengine', 'jme3-plugins').versionRef('jme')
+            library('jme3-jogg', 'org.jmonkeyengine', 'jme3-jogg').versionRef('jme')
+            library('jme3-testdata', 'org.jmonkeyengine', 'jme3-testdata').versionRef('jme')
+            library('jme3-lwjgl', 'org.jmonkeyengine', 'jme3-lwjgl').versionRef('jme')
+            library('jme3-lwjgl3', 'org.jmonkeyengine', 'jme3-lwjgl3').versionRef('jme')
+            library('jme3-effects', 'org.jmonkeyengine', 'jme3-effects').versionRef('jme')
+
+            library('lemur', 'com.simsilica:lemur:1.16.0')
+            library('lemur-proto', 'com.simsilica:lemur-proto:1.13.0')
+
+            library('junit4', 'junit:junit:4.13.2')
+            library('gson', 'com.google.code.gson:gson:2.11.0')
+            library('jackson-databind', 'com.fasterxml.jackson.core:jackson-databind:2.17.2')
+            library('mockito-core', 'org.mockito:mockito-core:3.+')
+            library('groovy-jsr223', 'org.apache.groovy:groovy-jsr223:4.0.22')
+            library('slf4j-nop', 'org.slf4j:slf4j-nop:2.0.13')
+        }
+    }
+}
+
+
+include 'mdga:client'
+include 'mdga:model'
+findProject(':mdga:client')?.name = 'client'

@@ -1,0 +1,81 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Seite-1" id="TbMbF-5jhfx3El6P_f-3">
+    <mxGraphModel dx="797" dy="2736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZLISz2z6pVpg-5paVFkb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZLISz2z6pVpg-5paVFkb-1" target="ZLISz2z6pVpg-5paVFkb-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLISz2z6pVpg-5paVFkb-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-1060" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLISz2z6pVpg-5paVFkb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZLISz2z6pVpg-5paVFkb-2" target="ZLISz2z6pVpg-5paVFkb-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLISz2z6pVpg-5paVFkb-2" value="RollRankingDice" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="-1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLISz2z6pVpg-5paVFkb-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="750" y="-1060" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLISz2z6pVpg-5paVFkb-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="756.41" y="-1053.5900000000001" width="27.18" height="27.18" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLISz2z6pVpg-5paVFkb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZLISz2z6pVpg-5paVFkb-11" target="ZLISz2z6pVpg-5paVFkb-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLISz2z6pVpg-5paVFkb-11" value="WaitRanking" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="-1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLISz2z6pVpg-5paVFkb-13" value="würfelt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="250" y="-1072" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLISz2z6pVpg-5paVFkb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZLISz2z6pVpg-5paVFkb-14" target="ZLISz2z6pVpg-5paVFkb-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HBi_zWWRokPrvrTCE_HY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZLISz2z6pVpg-5paVFkb-14" target="HBi_zWWRokPrvrTCE_HY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLISz2z6pVpg-5paVFkb-14" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="-1055" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLISz2z6pVpg-5paVFkb-16" value="[alle Spieler&lt;div&gt;haben gewürfelt]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-1082" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FSUdduVebVgtAKi_JV0F-1" value="DetermineStartingPlayer" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-1280" width="880" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HBi_zWWRokPrvrTCE_HY-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="FSUdduVebVgtAKi_JV0F-1">
+          <mxGeometry x="530" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBi_zWWRokPrvrTCE_HY-7" value="[Startspieler steht fest]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FSUdduVebVgtAKi_JV0F-1">
+          <mxGeometry x="590" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBi_zWWRokPrvrTCE_HY-8" value="[nicht höchster Wurf]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FSUdduVebVgtAKi_JV0F-1">
+          <mxGeometry x="404" y="81" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBi_zWWRokPrvrTCE_HY-9" value="[höchster Wurf]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FSUdduVebVgtAKi_JV0F-1">
+          <mxGeometry x="460" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBi_zWWRokPrvrTCE_HY-14" value="hat nicht gewürfelt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FSUdduVebVgtAKi_JV0F-1">
+          <mxGeometry x="590" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBi_zWWRokPrvrTCE_HY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HBi_zWWRokPrvrTCE_HY-1" target="ZLISz2z6pVpg-5paVFkb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HBi_zWWRokPrvrTCE_HY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HBi_zWWRokPrvrTCE_HY-1" target="ZLISz2z6pVpg-5paVFkb-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HBi_zWWRokPrvrTCE_HY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HBi_zWWRokPrvrTCE_HY-1" target="ZLISz2z6pVpg-5paVFkb-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="-1110" />
+              <mxPoint x="420" y="-1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

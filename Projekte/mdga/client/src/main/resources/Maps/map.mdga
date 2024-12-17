@@ -1,0 +1,276 @@
+world 0,0 90
+treesBigBackground 0,0 90
+treesSmallBackground 0,0 90
+
+
+#Marine Pos
+marine 4,-5 270
+marine 4,-4 270
+marine 5,-4 270
+marine 5,-5 270
+
+#Blue (Marine) wait Node
+node_wait_blue 4,-5 0
+node_wait_blue 4,-4 0
+node_wait_blue 5,-4 0
+node_wait_blue 5,-5 0
+
+#Lw Pos
+lw -5,4 90
+lw -4,4 90
+lw -4,5 90
+lw -5,5 90
+
+#Black (Lw) wait Node
+node_wait_black -5,4 0
+node_wait_black -4,4 0
+node_wait_black -4,5 0
+node_wait_black -5,5 0
+
+#Heer Pos
+heer -4,-5 180
+heer -4,-4 180
+heer -5,-4 180
+heer -5,-5 180
+
+#Green (Heer) Wait Node
+node_wait_green -4,-5 0
+node_wait_green -4,-4 0
+node_wait_green -5,-4 0
+node_wait_green -5,-5 0
+
+#CIR Pos
+cir 4,5 0
+cir 4,4 0
+cir 5,4 0
+cir 5,5 0
+
+#Assets
+jet -12,0 45
+jet -17,-2 55
+small_tent -9,7 45
+small_tent -10,5 60
+small_tent -7,8 30
+ship 11,0 169
+small_tent 6,8 340
+small_tent 8,7 320
+big_tent -10,-9 130
+big_tent 9,-10 225
+radar 0,10 -20
+tank -1,-10 135
+#tank 0,-18 180
+tank_shoot 0,-18 180
+tank 3,-18 180
+tank -3,-18 180
+
+#Yellow (CIR) wait Node
+node_wait_yellow 4,5 0
+node_wait_yellow 4,4 0
+node_wait_yellow 5,4 0
+node_wait_yellow 5,5 0
+
+#Nodes für Map
+node_start -5,1 0
+node -4,1 0
+node -3,1 0
+node -2,1 0
+node_bonus -1,1 0
+node -1,2 0
+node -1,3 0
+node -1,4 0
+node -1,5 0
+node 0,5 0
+node_start 1,5 0
+node 1,4 0
+node 1,3 0
+node 1,2 0
+node_bonus 1,1 0
+node 2,1 0
+node 3,1 0
+node 4,1 0
+node 5,1 0
+node 5,0 0
+node_start 5,-1 0
+node 4,-1 0
+node 3,-1 0
+node 2,-1 0
+node_bonus 1,-1 0
+node 1,-2 0
+node 1,-3 0
+node 1,-4 0
+node 1,-5 0
+node 0,-5 0
+node_start -1,-5 0
+node -1,-4 0
+node -1,-3 0
+node -1,-2 0
+node_bonus -1,-1 0
+node -2,-1 0
+node -3,-1 0
+node -4,-1 0
+node -5,-1 0
+node -5,0 0
+
+
+#Node Home
+node_home_black -4,0 0
+node_home_black -3,0 0
+node_home_black -2,0 0
+node_home_black -1,0 0
+
+node_home_green 0,-4 0
+node_home_green 0,-3 0
+node_home_green 0,-2 0
+node_home_green 0,-1 0
+
+node_home_yellow 0,4 0
+node_home_yellow 0,3 0
+node_home_yellow 0,2 0
+node_home_yellow 0,1 0
+
+node_home_blue 4,0 0
+node_home_blue 3,0 0
+node_home_blue 2,0 0
+node_home_blue 1,0 0
+
+# Randomly Distributed Trees within Radius 12 to 40
+
+treeSmall 10,15 180
+treeBig -15,12 45
+treeSmall -8,-22 270
+treeBig 22,8 90
+treeSmall -18,-10 135
+treeBig 9,24 300
+treeSmall 17,-9 60
+treeBig -20,5 330
+treeSmall -14,18 200
+treeBig 25,-7 120
+treeBig -12,-18 150
+treeSmall 19,-16 45
+treeBig 7,10 90
+treeBig -19,-9 270
+treeSmall 21,4 110
+treeBig -11,17 300
+treeSmall 3,-21 360
+treeSmall -23,14 100
+treeBig 4,26 330
+treeSmall 12,13 270
+treeBig -18,8 45
+treeBig 11,-10 135
+treeSmall 16,5 180
+treeBig -13,-17 330
+treeSmall -2,14 270
+#treeBig 7,9 300
+treeSmall 23,-10 240
+treeBig -6,18 180
+treeSmall 5,27 270
+treeBig 14,-11 60
+treeSmall 9,-16 180
+treeBig -12,22 240
+treeBig 18,7 360
+treeSmall -24,-4 200
+treeBig -8,21 300
+treeSmall 12,-19 120
+treeBig 6,-12 180
+treeSmall -11,10 75
+treeBig 9,6 270
+treeSmall 8,-14 150
+treeBig 3,18 30
+treeSmall 17,13 100
+treeBig -9,20 90
+treeBig 6,-22 330
+treeSmall -20,7 45
+treeBig 21,11 150
+treeSmall 15,-18 270
+treeBig -3,-12 200
+treeBig 12,-28 330
+treeSmall -17,-7 120
+treeBig -10,9 300
+treeSmall 2,-14 240
+treeBig 24,2 360
+treeSmall 4,-13 300
+treeBig -19,20 90
+#treeSmall -11,5 45
+treeBig 15,9 180
+treeSmall -6,10 240
+treeBig 3,15 30
+treeSmall 9,-19 150
+treeBig -21,-4 330
+treeSmall 19,11 270
+treeSmall 12,24 110
+treeBig -13,15 45
+treeSmall 7,-15 240
+treeBig 26,-8 300
+treeSmall -16,14 120
+treeBig 14,18 360
+treeSmall 8,21 100
+treeBig -8,-18 240
+treeSmall 9,15 180
+treeBig 10,-20 270
+treeSmall 2,27 90
+treeBig 18,12 300
+treeSmall -10,-14 150
+treeBig -15,16 330
+treeSmall -9,19 45
+treeBig 17,-14 120
+treeSmall 5,-25 180
+treeBig 7,23 30
+treeSmall -14,-12 200
+treeBig 6,-16 300
+treeSmall -20,-8 100
+treeBig 4,11 240
+treeSmall 24,-15 90
+treeSmall -19,-19 360
+treeBig 20,8 45
+treeSmall 3,22 270
+treeBig 13,-9 180
+treeSmall -11,18 150
+treeBig -17,-4 300
+treeSmall 5,-14 240
+treeBig 9,17 330
+treeSmall 15,13 90
+treeBig -21,18 30
+treeSmall 6,20 100
+treeBig -16,22 180
+treeSmall -5,18 360
+treeBig 22,11 45
+treeSmall 10,-23 240
+treeBig -10,-16 300
+treeSmall -17,14 120
+treeBig 20,4 150
+treeSmall 11,-22 180
+treeBig -24,-11 200
+treeSmall 14,17 150
+treeBig -8,-12 300
+treeSmall 7,-18 100
+treeBig -5,16 330
+treeSmall 16,-14 200
+treeBig 18,-8 90
+treeSmall -23,-9 45
+treeBig 24,10 300
+treeSmall -4,19 180
+treeBig 12,-5 330
+treeSmall -19,16 100
+treeBig 14,20 150
+treeSmall 9,12 180
+treeBig -22,8 60
+treeSmall 6,18 360
+treeBig 25,-9 45
+treeBig -10,12 240
+treeSmall 19,-17 100
+treeSmall -13,19 90
+treeSmall 16,-12 120
+treeBig 22,-6 45
+treeSmall -18,15 200
+treeBig 14,-10 300
+treeBig 6,10 330
+treeSmall 17,18 90
+treeBig -20,4 180
+treeBig 19,-16 300
+treeSmall -15,9 270
+treeBig 12,22 360
+
+
+
+
+

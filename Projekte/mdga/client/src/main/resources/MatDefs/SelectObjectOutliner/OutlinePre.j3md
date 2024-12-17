@@ -1,0 +1,19 @@
+MaterialDef Cartoon Edge {
+
+    MaterialParameters {
+        Int NumSamples
+        Int NumSamplesDepth
+        Texture2D Texture
+        Texture2D NormalsTexture
+        Texture2D DepthTexture
+    }
+
+     Technique {
+        VertexShader GLSL150:   MatDefs/SelectObjectOutliner/Post15.vert
+        FragmentShader GLSL150: MatDefs/SelectObjectOutliner/OutlinePre.frag
+
+        WorldParameters {
+        }
+
+    }
+}

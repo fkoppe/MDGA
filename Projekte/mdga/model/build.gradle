@@ -1,0 +1,12 @@
+plugins {
+    id 'buildlogic.java-library-conventions'
+}
+
+description = 'MDGA common model'
+
+dependencies {
+    api libs.jme3.networking
+    implementation libs.gson
+    testImplementation libs.mockito.core
+    runtimeOnly libs.slf4j.nop
+}

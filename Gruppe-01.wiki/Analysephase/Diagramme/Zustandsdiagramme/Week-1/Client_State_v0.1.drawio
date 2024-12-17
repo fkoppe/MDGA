@@ -1,0 +1,218 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Seite-1" id="JLnnXNSl_bT7RYuH_50K">
+    <mxGraphModel dx="2218" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0DY3MrZtrhvOQ6F2K7hq-1" target="0DY3MrZtrhvOQ6F2K7hq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0DY3MrZtrhvOQ6F2K7hq-1" target="0DY3MrZtrhvOQ6F2K7hq-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-1" value="Start-Dialog" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0DY3MrZtrhvOQ6F2K7hq-2" target="0DY3MrZtrhvOQ6F2K7hq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="160" />
+              <mxPoint x="270" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0DY3MrZtrhvOQ6F2K7hq-6" target="0DY3MrZtrhvOQ6F2K7hq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0DY3MrZtrhvOQ6F2K7hq-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="410" />
+              <mxPoint x="50" y="220" />
+              <mxPoint x="210" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-6" value="Netzwerk-Dialog für Hosts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0DY3MrZtrhvOQ6F2K7hq-7" target="0DY3MrZtrhvOQ6F2K7hq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="0DY3MrZtrhvOQ6F2K7hq-7" target="0DY3MrZtrhvOQ6F2K7hq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="410" />
+              <mxPoint x="550" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-7" value="Netzwerk-Dialog für Clients" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-14" value="Spiler wählt Server hosten" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.331;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0DY3MrZtrhvOQ6F2K7hq-1" target="0DY3MrZtrhvOQ6F2K7hq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-16" value="Spieler wählt Server beitreten" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.38;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0DY3MrZtrhvOQ6F2K7hq-17" target="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="740" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-17" value="Lobby" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-19" value="Spieler wählt Server erstellen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="470" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-21" value="Spieler wählt Server beitreten" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="490" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-23" value="Spieler wählt Abbrechen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-25" value="Spieler wählt Abbrechen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="410" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.434;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0DY3MrZtrhvOQ6F2K7hq-45" target="0DY3MrZtrhvOQ6F2K7hq-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349.19" y="1570" as="targetPoint" />
+            <mxPoint x="350.7400000000002" y="1374.64" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="1375" />
+              <mxPoint x="349" y="1375" />
+              <mxPoint x="349" y="1470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-34" value="Wenn alle anderen Spieler bereit sind und der Host eine TSK gewählt hat,&amp;nbsp;&lt;div&gt;kann er das&amp;nbsp; Spiel starten&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="650" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0DY3MrZtrhvOQ6F2K7hq-36" target="0DY3MrZtrhvOQ6F2K7hq-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="1610" as="sourcePoint" />
+            <mxPoint x="170" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="1560" />
+              <mxPoint x="1060" y="1560" />
+              <mxPoint x="1060" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-36" value="Sieger-Ehrung" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-37" value="Wenn alle Spieler bis auf einen das Spiel beendet haben, beginnt die Siegerehrung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1400" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-39" value="Der Spieler wählt verlassen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1570" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-45" value="Spiel" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="790" width="1130" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="34" y="77.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-46" value="Auswürfeln des Startspielers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="94" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.058;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0DY3MrZtrhvOQ6F2K7hq-45" source="0DY3MrZtrhvOQ6F2K7hq-44" target="0DY3MrZtrhvOQ6F2K7hq-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0DY3MrZtrhvOQ6F2K7hq-45" source="0DY3MrZtrhvOQ6F2K7hq-51" target="0DY3MrZtrhvOQ6F2K7hq-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-51" value="Power-Karten ausspielen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="461" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0DY3MrZtrhvOQ6F2K7hq-45" source="0DY3MrZtrhvOQ6F2K7hq-46" target="0DY3MrZtrhvOQ6F2K7hq-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-53" value="Startspieler ist festgelegt,&amp;nbsp;&lt;div&gt;Startspieler ist am Zug&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="280" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0DY3MrZtrhvOQ6F2K7hq-45" source="0DY3MrZtrhvOQ6F2K7hq-55" target="0DY3MrZtrhvOQ6F2K7hq-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0DY3MrZtrhvOQ6F2K7hq-45" source="0DY3MrZtrhvOQ6F2K7hq-74" target="0DY3MrZtrhvOQ6F2K7hq-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-55" value="Würfeln + Figur ziehen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="744" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="0DY3MrZtrhvOQ6F2K7hq-45" source="0DY3MrZtrhvOQ6F2K7hq-72" target="0DY3MrZtrhvOQ6F2K7hq-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1105" y="433" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0DY3MrZtrhvOQ6F2K7hq-45" source="0DY3MrZtrhvOQ6F2K7hq-59" target="0DY3MrZtrhvOQ6F2K7hq-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-59" value="Auf nächsten Zug warten" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="624" y="257.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="0DY3MrZtrhvOQ6F2K7hq-45" source="0DY3MrZtrhvOQ6F2K7hq-72" target="0DY3MrZtrhvOQ6F2K7hq-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-64" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="1090" y="272.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-66" value="wenn alle Figuren im Haus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="829" y="170" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-67" value="sonst" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="724" y="170" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-70" value="wenn letzter Spieler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="710" y="397.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-72" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="659" y="417.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-71" value="sonst" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="610" y="397.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0DY3MrZtrhvOQ6F2K7hq-45" source="0DY3MrZtrhvOQ6F2K7hq-74" target="0DY3MrZtrhvOQ6F2K7hq-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-74" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="779" y="187.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-82" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="1095" y="277.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0DY3MrZtrhvOQ6F2K7hq-45" source="0DY3MrZtrhvOQ6F2K7hq-84" target="0DY3MrZtrhvOQ6F2K7hq-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-84" value="Zuschauen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="840" y="257.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-86" value="wenn nur noch&amp;nbsp;&lt;div&gt;1 Spieler im Spiel ist&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0DY3MrZtrhvOQ6F2K7hq-45">
+          <mxGeometry x="960" y="290" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-79" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="95" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-81" value="Spieler wählt verlassen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DY3MrZtrhvOQ6F2K7hq-83" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="102.5" width="10" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,21 @@
+plugins {
+    // Apply the java Plugin to add support for Java.
+    id 'java'
+}
+
+repositories {
+    // Use Maven Central for resolving dependencies.
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation libs.junit4
+}
+
+java {
+    compileJava.options.encoding = 'UTF-8'
+}
+
+test {
+    useJUnit()
+}

@@ -1,0 +1,81 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Seite-1" id="ZCMoJAiUBJKG5svAax1x">
+    <mxGraphModel dx="1218" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-Z5Q2SMxZfGoNnI0Qr6-24" target="h-Z5Q2SMxZfGoNnI0Qr6-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="790" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-Z5Q2SMxZfGoNnI0Qr6-27" target="h-Z5Q2SMxZfGoNnI0Qr6-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-Z5Q2SMxZfGoNnI0Qr6-27" target="h-Z5Q2SMxZfGoNnI0Qr6-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-27" value="StartDialog" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-31" value="Dialogs" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="30" y="680" width="960" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="h-Z5Q2SMxZfGoNnI0Qr6-31">
+          <mxGeometry x="730" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="h-Z5Q2SMxZfGoNnI0Qr6-31">
+          <mxGeometry x="736.41" y="116.40999999999997" width="27.18" height="27.18" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="h-Z5Q2SMxZfGoNnI0Qr6-31" source="h-Z5Q2SMxZfGoNnI0Qr6-45" target="h-Z5Q2SMxZfGoNnI0Qr6-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="h-Z5Q2SMxZfGoNnI0Qr6-31" source="h-Z5Q2SMxZfGoNnI0Qr6-45" target="h-Z5Q2SMxZfGoNnI0Qr6-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-45" value="NetworkDialog" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h-Z5Q2SMxZfGoNnI0Qr6-31">
+          <mxGeometry x="330" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="h-Z5Q2SMxZfGoNnI0Qr6-31" source="h-Z5Q2SMxZfGoNnI0Qr6-46" target="h-Z5Q2SMxZfGoNnI0Qr6-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-46" value="Lobby" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h-Z5Q2SMxZfGoNnI0Qr6-31">
+          <mxGeometry x="530" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-55" value="[Alle Spieler Bereit,&amp;nbsp;&lt;div&gt;Host hat das Spiel gestartet]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="h-Z5Q2SMxZfGoNnI0Qr6-31">
+          <mxGeometry x="650" y="70" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-57" value="[Client hat Server beitreten gewählt]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="h-Z5Q2SMxZfGoNnI0Qr6-31">
+          <mxGeometry x="150" y="48" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-58" value="[Client hat Server hosten gewählt]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="h-Z5Q2SMxZfGoNnI0Qr6-31">
+          <mxGeometry x="170" y="180" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-59" value="[Host hat Server erstellen gewählt]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="h-Z5Q2SMxZfGoNnI0Qr6-31">
+          <mxGeometry x="375" y="180" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-60" value="Client/ Host wählt verlassen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="h-Z5Q2SMxZfGoNnI0Qr6-31">
+          <mxGeometry x="593.59" y="160" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-Z5Q2SMxZfGoNnI0Qr6-45" target="h-Z5Q2SMxZfGoNnI0Qr6-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-Z5Q2SMxZfGoNnI0Qr6-46" target="h-Z5Q2SMxZfGoNnI0Qr6-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="900" />
+              <mxPoint x="190" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-56" value="[Client hat verbinden gewählt]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="718" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-Z5Q2SMxZfGoNnI0Qr6-61" value="Client wählt&amp;nbsp;&lt;div&gt;zurück&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="773" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,66 @@
+world 0,0
+
+# jet 0,0
+
+#Nodes für Map
+node_start 8,0
+node 8,1
+node 8,2
+node 7,3
+node_bonus 6,4
+node 5,5
+node 4,6
+node 3,7
+node 2,8
+node 1,8
+node_start 0,8
+node -1,8
+node -2,8
+node -3,7
+node_bonus -4,6
+node -5,5
+node -6,4
+node -7,3
+node -8,2
+node -8,1
+node_start -8,0
+node -8,-1
+node -8,-2
+node -7,-3
+node_bonus -6,-4
+node -5,-5
+node -4,-6
+node -3,-7
+node -2,-8
+node -1,-8
+node_start 0,-8
+node 1,-8
+node 2,-8
+node 3,-7
+node_bonus 4,-6
+node 5,-5
+node 6,-4
+node 7,-3
+node 8,-2
+node 8,-1
+
+#Node Home
+node_home_blue 7,0
+node_home_blue 6,0
+node_home_blue 5,0
+node_home_blue 4,0
+
+node_home_black 0,4
+node_home_black 0,5
+node_home_black 0,6
+node_home_black 0,7
+
+node_home_yellow 0,-4
+node_home_yellow 0,-5
+node_home_yellow 0,-6
+node_home_yellow 0,-7
+
+node_home_green -4,0
+node_home_green -5,0
+node_home_green -6,0
+node_home_green -7,0
